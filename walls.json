@@ -1,1 +1,21 @@
-
+{
+  "wallpapers": [
+    {
+      "name": "Wall 1",
+      "author": "Padmanabhan",
+      "url": "https://raw.githubusercontent.com/mpadhu/glossy-walls/refs/heads/main/photo_2026-03-19_23-07-09.jpg"
+    },
+    {
+      "name": "Wall 2",
+      "author": "Padmanabhan",
+      "url": "https://raw.githubusercontent.com/mpadhu/glossy-walls/refs/heads/main/photo_2026-03-19_23-07-15.jpg"
+    },
+    {
+       {
+      "name": "Wall 2",
+      "author": "Padmanabhan",
+      "url": "https://raw.githubusercontent.com/mpadhu/glossy-walls/refs/heads/main/photo_2026-03-19_23-07-19.jpg"
+    }
+    }
+  ]
+}
