@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.3",
-  "latestVersionCode": 21,
-  "minimumAllowedVersionCode": 21,
+  "latestVersion": "2.4",
+  "latestVersionCode": 22,
+  "minimumAllowedVersionCode": 22,
   "disableRequest": {
-    "below": 21,
-    "on": "20, 19, 18"
+    "below": 22,
+    "on": "21, 20, 19, 18"
   },
   "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.glossyglowiconpack",
   "releaseNotes": [
